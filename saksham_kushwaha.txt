@@ -1,6 +1,4 @@
 Name: Saksham Kushwaha
 GitHub Username: @saksham-kushwaha
-Favorite Programming Language: JavaScript
-Fun Fact: I love organizing tech workshops and helping others learn to code!
-Workshop Date: 2024-01-15
-Learning Goal: To help participants understand the power of version control and collaborative development
+Favorite Programming Language: Typescript
+Fun Fact: I love building products!!
