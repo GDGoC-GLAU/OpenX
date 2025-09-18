@@ -38,8 +38,6 @@ Name: Your Full Name
 GitHub Username: @yourusername
 Favorite Programming Language: Python
 Fun Fact: Something interesting about you!
-Workshop Date: [Today's Date]
-Learning Goal: What you hope to learn from this workshop
 ```
 
 ### Step 4: Add and Commit Your Changes
